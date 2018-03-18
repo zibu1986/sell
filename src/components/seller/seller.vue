@@ -1,6 +1,6 @@
 <template>
   <div>
-      good
+      sell
   </div>
 </template>
 
@@ -13,3 +13,4 @@ export default {
 <style lang="scss" scoped>
 
 </style>
+
