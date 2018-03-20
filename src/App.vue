@@ -19,13 +19,6 @@
 import vhead from './components/vheader/vhead';
 
 export default {
-  data(){
-    return{
-      seller:{
-        
-      }
-    }
-  },
   components:{
     vhead
   }
