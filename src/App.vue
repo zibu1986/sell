@@ -35,7 +35,7 @@ export default {
   line-height: 40px;
   a{
     text-decoration: none;
-    display: block;
+    display: inline-block;
   }
 }
 #app {
